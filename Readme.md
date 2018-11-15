@@ -1,3 +1,18 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Class1.cs](./CS/ClassLibrary1/Class1.cs) (VB: [Class1.vb](./VB/ClassLibrary1/Class1.vb))
+* [Service1.asmx.cs](./CS/WebApplication1/Service1.asmx.cs) (VB: [Service1.asmx.vb](./VB/WebApplication1/Service1.asmx.vb))
+* [Default.aspx](./CS/WebApplication2/Default.aspx) (VB: [Default.aspx.vb](./VB/WebApplication2/Default.aspx.vb))
+* [Default.aspx.cs](./CS/WebApplication2/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication2/Default.aspx.vb))
+* [Reference.cs](./CS/WebApplication2/Web References/localhost/Reference.cs) (VB: [Reference.vb](./VB/WebApplication2/Web References/localhost/Reference.vb))
+* [Form1.cs](./CS/WindowsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication1/Form1.vb))
+* [Program.cs](./CS/WindowsApplication1/Program.cs) (VB: [Program.vb](./VB/WindowsApplication1/Program.vb))
+* [Reference.cs](./CS/WindowsApplication1/Web References/localhost/Reference.cs) (VB: [Reference.vb](./VB/WindowsApplication1/Web References/localhost/Reference.vb))
+* [Form1.cs](./CS/WindowsApplication1/WindowsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication1/WindowsApplication1/Form1.vb))
+* [Program.cs](./CS/WindowsApplication1/WindowsApplication1/Program.cs) (VB: [Program.vb](./VB/WindowsApplication1/WindowsApplication1/Program.vb))
+* [XtraReport1.cs](./CS/WindowsApplication1/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/WindowsApplication1/XtraReport1.vb))
+<!-- default file list end -->
 # Using the Web Service as an XtraReport.DataSource
 
 
