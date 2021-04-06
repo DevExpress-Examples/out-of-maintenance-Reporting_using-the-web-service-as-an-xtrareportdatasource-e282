@@ -10,10 +10,8 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WindowsApplication1</RootNamespace>
     <AssemblyName>WindowsApplication1</AssemblyName>
-    <FileUpgradeFlags>
-    </FileUpgradeFlags>
-    <UpgradeBackupLocation>
-    </UpgradeBackupLocation>
+    <FileUpgradeFlags></FileUpgradeFlags>
+    <UpgradeBackupLocation></UpgradeBackupLocation>
     <OldToolsVersion>3.5</OldToolsVersion>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <TargetFrameworkProfile />
@@ -190,10 +188,8 @@
       <UrlBehavior>Dynamic</UrlBehavior>
       <RelPath>Web References\localhost\</RelPath>
       <UpdateFromURL>http://localhost:2018/WebSite1/Service.asmx</UpdateFromURL>
-      <ServiceLocationURL>
-      </ServiceLocationURL>
-      <CachedDynamicPropName>
-      </CachedDynamicPropName>
+      <ServiceLocationURL></ServiceLocationURL>
+      <CachedDynamicPropName></CachedDynamicPropName>
       <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
       <CachedSettingsPropName>WindowsApplication1_localhost_Service</CachedSettingsPropName>
     </WebReferenceUrl>
