@@ -39,7 +39,7 @@ Namespace WindowsApplication1.localhost
 
 		''' <remarks/>
 		Public Sub New()
-			Me.Url = Global.WindowsApplication1.Properties.Settings.Default.WindowsApplication1_localhost_Service
+			Me.Url = My.Settings.Default.WindowsApplication1_localhost_Service
 			If (Me.IsLocalFileSystemWebService(Me.Url) = True) Then
 				Me.UseDefaultCredentials = True
 				Me.useDefaultCredentialsSetExplicitly = False
